@@ -43,4 +43,10 @@ This project is built as part of a learning / internship-ready full-stack system
 - bcrypt (password hashing)
 
 ---
+### Screenshots
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Salaryfy.io/blob/main/Screenshot%202025-09-06%20143347.png)
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Salaryfy.io/blob/main/Screenshot%202025-09-06%20143347.png)
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Salaryfy.io/blob/main/Screenshot%202025-09-06%20143347.png)
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Salaryfy.io/blob/main/Screenshot%202025-09-06%20143347.png)
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Salaryfy.io/blob/main/Screenshot%202025-09-06%20143347.png)
 
